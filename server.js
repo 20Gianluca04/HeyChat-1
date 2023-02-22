@@ -1,7 +1,5 @@
 const WebSocket = require('ws');
 
-//guadaaaaaaaaaaaaaaaaaaaa
-
 const server = new WebSocket.Server({ port: 8080 });
 
 class User {
